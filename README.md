@@ -1,4 +1,3 @@
-```markdown
 # Customer Purchases API & Streamlit App
 
 ## Overview
@@ -72,4 +71,3 @@ Submit your GitHub repository link once completed. Ensure your repo includes:
 - Unit tests for the backend.
 
 Good luck and happy coding!
-```

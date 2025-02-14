@@ -1,0 +1,801 @@
+customer_name,country,purchase_date,amount
+James Morgan,British Virgin Islands,2024-12-05,418.15
+Jeffrey Friedman,New Caledonia,2024-03-07,352.13
+Stephen Torres,Taiwan,2024-07-03,607.35
+Karen Ross,Belarus,2025-01-17,755.48
+Robert Rowland,South Africa,2024-09-28,356.84
+Jack Munoz,Niue,2024-07-06,190.79
+Kiara Braun,Estonia,2024-03-14,374.76
+Robert Wilson,Brazil,2024-04-09,738.66
+Curtis Williams,China,2024-04-25,105.61
+Joshua Rice,Lesotho,2024-11-24,838.57
+Barbara Martin,Cuba,2024-10-19,605.56
+Alejandro Hernandez,Tanzania,2024-11-17,594.56
+Chelsea Wilson,Pakistan,2024-03-24,463.16
+Jordan Smith,Moldova,2024-03-18,266.53
+Brenda Russell,Cuba,2024-10-02,143.34
+Peggy Martin,French Southern Territories,2024-11-29,274.72
+Mr. Brian Moreno,United States of America,2024-11-02,860.54
+Mackenzie Hall,Ecuador,2024-04-14,483.17
+Alan Bell,French Polynesia,2024-09-27,781.89
+Mary Reyes,Cameroon,2024-02-27,570.65
+Trevor Medina,Romania,2024-03-20,518.17
+Carla Beck,Georgia,2025-02-06,582.1
+Justin Robbins,Trinidad and Tobago,2024-02-23,703.14
+Ashley Cross,Vanuatu,2024-05-24,619.82
+Rebecca Long,Chad,2024-07-27,778.3
+Stephen Dixon PhD,Ghana,2024-07-12,74.99
+Mandy Cohen,Tajikistan,2024-11-02,204.54
+Lori Callahan,Comoros,2024-06-11,255.52
+Maria Martin,Venezuela,2024-11-06,153.68
+Wanda Powell,Palestinian Territory,2024-10-17,317.3
+Brian Pierce,Reunion,2024-06-08,251.27
+Steven Garcia,Ethiopia,2024-07-27,239.01
+Mary Cohen,Cape Verde,2024-11-01,110.61
+Julia Smith,Gabon,2025-02-12,799.46
+Sydney Perez,Suriname,2024-05-30,404.22
+Benjamin Maldonado,Syrian Arab Republic,2024-12-23,470.41
+Kelly Mora,Azerbaijan,2024-10-08,819.35
+Chelsea York,Cocos (Keeling) Islands,2024-11-23,678.04
+James Contreras,Korea,2024-02-27,357.68
+Madison Vega,Ireland,2024-02-19,111.56
+Kenneth Galloway,Burundi,2024-08-22,903.94
+Michael Price,Mayotte,2025-01-14,116.36
+Kayla Smith,San Marino,2024-02-20,450.35
+Jeremy Martinez,Tokelau,2024-04-16,899.46
+Zachary Green,Mozambique,2024-03-27,758.92
+Mark Coleman,Serbia,2024-06-23,853.08
+Anthony Wong,Korea,2024-10-15,997.21
+Charles Hunter,Tajikistan,2025-01-22,291.3
+Harold Kelly,Monaco,2024-08-21,869.81
+Kim Walker,United States Virgin Islands,2024-09-23,711.86
+April Gilbert,Lao People's Democratic Republic,2024-08-12,246.84
+Nicholas Kelley,Myanmar,2024-10-03,432.8
+Jeffery Hill,Jordan,2024-12-21,444.43
+Brian Benitez,Tonga,2024-06-05,211.92
+Michelle Callahan,Bouvet Island (Bouvetoya),2024-09-26,840.21
+Natalie Weeks,British Indian Ocean Territory (Chagos Archipelago),2024-06-28,704.28
+April Adams,New Zealand,2025-01-03,435.33
+Dr. Kathryn Richardson,British Virgin Islands,2024-04-06,840.22
+John Sellers,Falkland Islands (Malvinas),2024-05-26,370.43
+Julie Peters,Dominica,2024-11-05,570.95
+Adam Brown,Greece,2024-03-07,894.42
+Jody Juarez,Brunei Darussalam,2024-12-30,167.31
+Megan Lynch,Tanzania,2024-06-30,853.21
+Holly Jenkins,Congo,2025-02-07,778.35
+Scott Perez,Honduras,2024-08-24,89.93
+Lisa Lutz,Latvia,2024-09-20,339.1
+Jessica Mcclure,Kyrgyz Republic,2024-02-21,805.51
+Michael Moore,Namibia,2024-06-10,423.56
+Philip Harris,Saudi Arabia,2024-10-01,398.05
+Brittany Cruz,Portugal,2024-05-26,503.99
+Shane Foley,Central African Republic,2024-10-24,864.89
+Kelly Acevedo,Poland,2024-12-16,691.58
+Troy Ward,Dominican Republic,2024-05-07,732.76
+John Chavez,Gabon,2025-01-17,38.62
+Kyle Richardson,Saint Lucia,2024-04-16,714.29
+Mrs. Teresa Garcia,Brunei Darussalam,2025-02-05,749.65
+Rachel Page,Liberia,2024-08-11,524.14
+Kelly Wilkins,Wallis and Futuna,2024-04-04,141.42
+Krista Miller,Falkland Islands (Malvinas),2025-01-24,657.61
+Cheryl Peters,Cameroon,2024-09-21,298.34
+Alicia Taylor,Belize,2025-01-18,592.32
+Kevin Skinner,Rwanda,2024-07-22,116.88
+Jason Vasquez,Jamaica,2024-04-24,664.13
+Kevin Carson,Bolivia,2024-04-12,553.8
+Amy Park,Guam,2024-11-07,963.15
+Barbara Arnold,New Caledonia,2024-09-13,76.67
+Jennifer Robinson,Sao Tome and Principe,2024-04-30,323.36
+Lisa Nguyen,Uganda,2024-04-08,765.14
+Eric Hansen,Saint Helena,2024-08-01,80.26
+Thomas Diaz,Cambodia,2025-01-06,58.9
+Troy Flowers,Netherlands,2024-02-17,89.18
+Eric Wallace,Antigua and Barbuda,2024-08-18,845.08
+Nicholas Swanson,French Guiana,2024-04-16,734.11
+Maria Lopez,United States Virgin Islands,2024-08-31,23.21
+Justin Hernandez,Georgia,2024-02-21,136.22
+Samantha Stewart,Cook Islands,2024-09-28,416.95
+Frank Thompson,Gabon,2024-11-19,17.95
+Molly Hernandez,Malawi,2025-01-14,319.95
+Samantha Austin,Sierra Leone,2024-10-22,182.52
+Samuel Cardenas,Germany,2024-06-05,515.79
+Wendy Shepherd,Guadeloupe,2024-06-05,622.8
+Michael Mcgee,Ghana,2024-09-16,422.44
+Sandra Peters,Dominican Republic,2024-05-24,534.6
+Robert Castro,Ukraine,2024-11-23,313.05
+Karen Dillon,Cayman Islands,2025-01-02,132.5
+Paul Romero,Saint Vincent and the Grenadines,2024-09-17,584.66
+Julie Huang,Kiribati,2024-08-09,478.58
+Brittney Hernandez,Singapore,2024-08-28,218.26
+Thomas Perez,Bulgaria,2024-12-26,461.62
+Courtney White,Comoros,2024-04-16,905.87
+John Sanchez,United States Minor Outlying Islands,2024-06-25,449.93
+Brian Cherry,Norway,2024-06-11,628.25
+Kyle Daniel,Denmark,2024-04-15,832.72
+Darren Lloyd,Norway,2024-09-03,873.95
+Kristin Wilson,Cape Verde,2024-04-20,937.27
+Mr. Robert Walker,Holy See (Vatican City State),2025-01-06,945.52
+John Kaiser,Yemen,2024-03-30,603.18
+Elizabeth Foster,Palau,2024-12-26,697.82
+Zachary Hoover,Panama,2024-06-08,883.5
+Brooke Vasquez,Azerbaijan,2024-08-15,332.7
+Jessica Lawson,Ireland,2024-08-19,28.04
+Kelly Holloway,Mayotte,2024-10-15,786.62
+Emma Thompson,Nauru,2024-09-10,278.51
+David Edwards,Tuvalu,2024-04-13,762.95
+Samuel Miller,Syrian Arab Republic,2025-01-30,406.86
+Zachary Norman,Georgia,2025-02-10,11.88
+Ryan Spencer,Indonesia,2024-07-08,70.73
+Shannon Elliott,Afghanistan,2024-10-01,90.95
+Lori Rivera,Afghanistan,2024-06-04,669.26
+Cameron Thomas,Saint Martin,2024-07-30,336.89
+Courtney Hernandez,Antigua and Barbuda,2024-10-13,700.66
+Jenna Douglas,Angola,2024-03-26,406.82
+Christopher Torres,Mauritius,2024-04-15,656.08
+Amanda Sparks,Portugal,2024-03-28,731.64
+William Flores,Panama,2024-10-12,897.97
+Sean Santiago,Pakistan,2024-05-01,562.15
+Allison Dennis,Cayman Islands,2024-03-14,371.24
+Crystal Murphy,Cameroon,2024-03-11,631.87
+Janice Payne,Heard Island and McDonald Islands,2024-03-28,564.39
+Steven Chen,Holy See (Vatican City State),2024-12-14,373.07
+Craig Cooper,Jersey,2024-02-21,26.9
+Breanna Todd,Vietnam,2024-09-09,404.02
+Christopher Bray,Isle of Man,2024-05-24,739.34
+Tracey Adams,South Africa,2024-04-04,99.82
+John Davis,French Polynesia,2024-10-16,621.98
+Chad Owens,Spain,2024-11-02,43.04
+Julie Johnson,French Polynesia,2024-03-10,27.96
+Maria Summers,French Polynesia,2024-04-01,37.81
+Logan Martinez,Azerbaijan,2024-06-01,682.35
+Misty Garza,Sweden,2024-05-11,192.81
+Andre Knight,Korea,2024-04-02,370.47
+Jennifer Roman,Myanmar,2024-04-21,356.71
+David Pitts,Saint Martin,2024-04-09,164.12
+Rodney Brown,Netherlands Antilles,2024-11-30,282.33
+Tonya Kelly,Cook Islands,2025-01-18,357.32
+Charles Mathews,Mozambique,2024-09-28,576.5
+Angela Myers,Serbia,2025-01-08,946.88
+Jason Williams,Madagascar,2024-07-31,14.6
+Mike Clark,Ethiopia,2024-12-16,331.94
+Brian Munoz,Uzbekistan,2024-07-19,51.53
+Matthew Bates,Tajikistan,2024-04-18,993.65
+Steven Smith,Greece,2024-10-16,257.04
+Joshua Phillips,French Guiana,2024-06-02,110.56
+Robert Duncan,United Arab Emirates,2024-03-20,49.23
+Christopher Carroll,Burundi,2025-02-10,43.47
+Sharon Murphy,Croatia,2024-07-07,256.39
+Ryan Duffy,South Africa,2025-01-17,419.93
+Todd Dickson,Switzerland,2024-06-01,112.54
+Jonathan Sutton MD,Algeria,2025-01-17,98.29
+Keith Jimenez,Saint Helena,2024-05-05,771.45
+Holly Blackburn,Samoa,2024-11-21,86.02
+Jorge Myers Jr.,Andorra,2024-03-02,223.68
+Crystal Hall,Myanmar,2024-08-28,751.28
+Nathaniel Henderson,Malawi,2024-12-17,878.68
+Michelle Wang,Heard Island and McDonald Islands,2024-08-06,256.79
+Tammy Martinez,Czech Republic,2024-06-27,553.65
+Wesley Bailey,Philippines,2025-01-01,82.9
+Amanda Morris,San Marino,2024-11-04,128.04
+Mary Burns,Yemen,2024-03-26,612.64
+Mrs. Crystal Gilbert,Croatia,2024-03-02,731.85
+Rachel Tyler,Holy See (Vatican City State),2024-05-13,400.61
+Nicholas Richards,Qatar,2024-06-12,453.2
+Mark Jackson,Nauru,2024-10-31,571.7
+Jennifer Sanchez,Tajikistan,2024-02-22,642.4
+Richard Brady,Korea,2024-07-31,323.12
+Heidi Beck,Paraguay,2024-05-10,326.95
+Rachel Gonzales,Sri Lanka,2025-02-10,224.81
+Jesse Reese,Bermuda,2024-10-03,312.48
+John Robertson,Austria,2024-10-29,408.73
+Samuel Adams,Bulgaria,2024-06-08,16.8
+Lisa Bradley,Malawi,2024-02-23,55.2
+David Carlson,Mexico,2024-07-09,919.72
+Kimberly Sparks,Indonesia,2024-08-04,364.96
+Kenneth Curry,Luxembourg,2024-04-11,832.72
+Judy Wilson,Nicaragua,2025-01-31,173.99
+Jason Harris,Yemen,2024-02-21,18.77
+Maria Morris,Seychelles,2024-06-17,174.5
+Mary Holden,Uruguay,2024-06-14,461.78
+Jonathan Peterson,Fiji,2024-08-25,724.38
+Bobby Fuller,Denmark,2024-12-03,671.56
+Thomas Williams,Czech Republic,2024-12-22,527.88
+Darrell Schmidt,Argentina,2025-02-06,147.21
+Michael Snyder,South Africa,2024-06-03,723.97
+Tyrone Fields,Tajikistan,2024-06-25,627.84
+Kelly James,Gabon,2024-12-15,417.45
+Robert Gomez,Somalia,2024-05-22,514.26
+Christopher Kelly,Malawi,2024-04-17,241.06
+Robert Guzman,Turks and Caicos Islands,2024-07-10,601.27
+Kelsey Perez,Indonesia,2024-08-12,542.28
+Colton Morgan,Sri Lanka,2024-05-25,526.47
+Brandon Conley,Canada,2024-11-03,193.82
+Teresa Smith,Montenegro,2024-06-01,968.35
+Douglas Gomez,Uruguay,2024-03-28,601.32
+Amy Heath,Cote d'Ivoire,2024-06-17,261.52
+Sarah Steele,Denmark,2024-05-27,775.25
+Christina Montoya,Micronesia,2025-01-02,570.45
+Cheryl Clark,Bangladesh,2025-01-10,368.95
+Daniel Chase,Estonia,2024-07-03,953.51
+Dana Rodriguez,Kenya,2025-01-15,376.46
+Crystal Potts,Gibraltar,2024-12-30,874.65
+Richard Gordon,Congo,2024-07-21,776.46
+Joanne Murphy,Namibia,2024-11-30,999.37
+Mandy Cunningham,Papua New Guinea,2024-08-10,693.74
+Cynthia Gill DDS,Albania,2024-11-23,504.31
+Chelsea Mendoza,New Zealand,2024-09-17,834.21
+Samantha Cisneros,Russian Federation,2025-01-08,324.55
+Samuel Allen,Mayotte,2025-01-14,677.19
+Edward Perez,Turkmenistan,2024-02-17,447.23
+Sean Wong,Spain,2024-03-10,933.63
+Nathaniel Oconnor,Mozambique,2024-06-18,932.58
+Kevin Wood,Germany,2024-06-23,753.65
+Corey Higgins,Macao,2024-10-31,543.93
+Deborah Rice,Montenegro,2024-10-07,625.83
+Sabrina Dudley,Bhutan,2024-11-21,323.04
+Maria Perry,Algeria,2024-07-09,281.79
+Alexandra Wilkins,Argentina,2024-08-04,21.15
+Jacob Crawford,Luxembourg,2024-08-02,225.16
+Donald Thomas,French Polynesia,2024-04-25,75.9
+Matthew Mcknight,Paraguay,2024-10-13,733.59
+Jonathan Arnold,Greenland,2024-08-29,693.2
+Kristin Nolan,China,2024-12-08,834.12
+Julian Sanchez,Saint Vincent and the Grenadines,2024-02-26,168.05
+Joshua Medina,Syrian Arab Republic,2025-01-30,180.15
+Jessica Martin,Saint Kitts and Nevis,2024-09-08,11.09
+Brianna Johnson,Korea,2024-10-02,988.46
+Jose Moore,Dominica,2024-09-02,245.28
+Andre Chan,Canada,2024-04-27,861.02
+Nancy Crawford,Dominica,2024-05-29,127.22
+Adam Bennett,Slovenia,2024-05-06,672.7
+Regina Foster MD,Seychelles,2024-09-16,820.09
+Cynthia Hudson,Bosnia and Herzegovina,2025-02-05,158.73
+Randy Stafford,Solomon Islands,2024-11-01,758.9
+Robert King,Liberia,2024-02-21,833.35
+Mr. Seth Russo,Taiwan,2024-10-04,494.86
+Michelle Anthony,Georgia,2024-09-16,722.54
+Zachary Jordan,Guam,2024-09-08,763.65
+Danielle Dickerson,Seychelles,2024-03-30,342.76
+Monica Perry,Saint Lucia,2024-02-16,609.52
+Matthew Coleman,Uruguay,2024-12-21,418.62
+Kimberly Schneider,Indonesia,2024-10-20,785.93
+Linda Strong,Luxembourg,2024-05-10,421.84
+Jerome Graham DVM,Finland,2024-12-05,858.89
+Edward Vazquez,Bolivia,2024-05-30,314.74
+Melissa Hudson,Guernsey,2024-12-15,958.92
+Glenn Thomas,Mongolia,2024-09-01,245.19
+Melissa Hampton,Guadeloupe,2024-08-23,890.46
+Heather Maxwell,Malta,2025-01-02,317.04
+James Hampton,Sri Lanka,2024-11-17,985.89
+Tanya Davis,Honduras,2024-10-20,886.07
+Brian Cole,Greece,2024-04-02,35.62
+Sarah Gonzalez,Comoros,2024-08-14,855.02
+James Martin,Qatar,2024-07-18,741.22
+Reginald Herman,Ghana,2024-05-20,713.05
+Trevor Rush,Cocos (Keeling) Islands,2024-07-17,363.16
+Susan Martin,Guinea,2024-07-07,785.4
+Timothy Jones,British Virgin Islands,2024-07-11,257.59
+Mrs. Sara Campbell,Zambia,2024-04-25,105.56
+Ms. Brenda Schneider,Nicaragua,2024-06-09,517.83
+Blake Taylor,Turkmenistan,2024-05-05,789.91
+Matthew Lyons,Estonia,2024-09-08,736.18
+Kendra Greene,Guadeloupe,2024-12-24,506.84
+Dylan Lewis,Poland,2024-05-02,19.09
+Kristen Smith,Wallis and Futuna,2024-05-24,44.71
+Benjamin Miller,Belgium,2024-12-02,230.86
+Laura Peterson,Aruba,2024-08-23,931.09
+Chad Brown,Australia,2024-07-08,254.35
+Travis Vasquez,Cuba,2024-04-03,150.26
+Andrea Malone,British Indian Ocean Territory (Chagos Archipelago),2025-01-02,119.69
+Michael Smith,Tokelau,2024-11-27,895.1
+Cheryl West,Sudan,2024-07-01,531.05
+Cheryl Lewis,Paraguay,2024-11-28,360.89
+Shannon Wood,Mayotte,2024-08-12,959.22
+Rachel Parker,Angola,2024-04-19,605.74
+Taylor Green,Tajikistan,2024-09-10,30.91
+Amy Neal,India,2024-06-24,852.54
+Charles Price,Bangladesh,2024-05-06,316.43
+Marc Sanchez,Myanmar,2024-09-30,78.08
+Chris Becker,Cambodia,2024-04-27,685.77
+John Quinn,Mozambique,2024-03-16,599.96
+James James,Zimbabwe,2024-06-10,827.47
+Jason White,Serbia,2024-04-24,798.75
+Laurie Rodgers,Namibia,2024-05-24,368.44
+Jeffrey Casey,Belgium,2025-02-06,773.2
+Jennifer Turner,Mauritius,2024-10-24,389.08
+Kimberly Richardson,Malawi,2024-04-12,802.58
+Lisa Johnson,El Salvador,2024-04-29,210.7
+Sharon Watson,Northern Mariana Islands,2024-10-03,617.15
+Marisa Hansen,Fiji,2024-08-07,758.77
+Leah Morse,Montenegro,2024-06-26,541.99
+Shannon Smith,Mali,2024-05-06,49.07
+Duane Malone,Bulgaria,2025-01-21,249.09
+Steven Vaughn,Belarus,2024-10-15,563.43
+Richard Morales,Austria,2024-04-09,483.37
+Harry Jones,Gibraltar,2024-08-20,720.21
+Christian Frazier,Turkey,2024-05-01,572.54
+Sean Berg,Mayotte,2024-07-08,194.18
+Tony Munoz,Iran,2024-04-20,539.13
+Jackie Cuevas,Antigua and Barbuda,2024-03-25,462.37
+Edgar Chavez,Guam,2024-05-22,377.04
+Heidi Daniel,Honduras,2024-03-23,485.12
+Patricia Fuentes,Guatemala,2024-07-09,569.4
+Melanie Crawford,United States of America,2024-06-24,234.84
+Tyrone Anderson,Namibia,2024-10-12,352.76
+Annette Williams,British Indian Ocean Territory (Chagos Archipelago),2024-12-25,802.3
+Ronald Schultz,Aruba,2024-03-16,894.01
+Maria Perez,Comoros,2024-04-17,448.39
+Mario Simpson,Israel,2024-08-16,392.32
+Christian Calderon,Grenada,2024-11-07,855.36
+Michael Newton,Marshall Islands,2024-09-03,320.19
+David Brown,Saudi Arabia,2024-10-21,172.48
+Kevin Davidson,Turkey,2024-09-23,397.19
+William Davies,Pitcairn Islands,2024-12-06,401.39
+Michelle Morrison,Belgium,2024-02-19,333.87
+Matthew Stephens,Oman,2024-10-15,92.68
+Belinda Robertson,Yemen,2024-11-01,898.54
+Rebecca Parks,Denmark,2024-09-18,925.22
+Mr. Charles Flores,Samoa,2024-08-06,265.17
+Gregory White,Philippines,2024-10-31,954.75
+Joshua James,Pakistan,2024-08-06,700.94
+Elizabeth Sosa,Kazakhstan,2024-07-05,230.77
+David Cooper,Guyana,2024-11-24,992.66
+Jason Schultz,Western Sahara,2025-01-10,717.15
+Erica Clark,Malawi,2024-04-01,934.08
+Robert Davis,Senegal,2024-07-30,51.49
+Angela Simpson,Botswana,2024-04-13,549.43
+Mr. David Wilson,Azerbaijan,2024-12-22,954.83
+Donald Arnold,Sri Lanka,2024-06-27,165.63
+Margaret Adams,Barbados,2024-08-11,826.41
+Crystal Parker,Grenada,2024-10-27,412.83
+Michael Henry,Jamaica,2024-07-21,347.32
+Kayla Peck,Kiribati,2024-04-30,562.15
+Donald Pitts,Niger,2024-03-27,199.82
+Bruce Brady,Netherlands,2024-05-02,398.26
+Taylor Terry,Bahamas,2024-07-01,473.27
+Kelly Murphy,Macao,2024-12-08,512.61
+Pamela Richards,Aruba,2025-01-02,989.97
+Chase Holmes,Fiji,2024-05-25,877.34
+Jason Fields,Gabon,2024-12-12,643.08
+Julia Munoz,Nigeria,2024-08-30,984.86
+Briana Ferrell,Central African Republic,2025-01-17,738.67
+Timothy Brown,Belize,2024-12-26,880.9
+Logan Harris,Marshall Islands,2025-02-04,573.26
+Timothy White,Poland,2024-03-12,481.67
+Jennifer Clark,Timor-Leste,2024-02-19,622.29
+Brittany Peters,Sao Tome and Principe,2024-04-27,982.45
+Holly Mckinney,Croatia,2024-04-19,335.96
+Michelle Alexander,Liberia,2024-11-20,969.8
+Justin Higgins,Ethiopia,2024-10-09,178.99
+Cathy Smith,Belarus,2024-07-20,910.83
+Anthony Ellis,South Africa,2024-11-14,879.48
+Mr. Nicholas Lawrence,Poland,2025-01-21,538.64
+Benjamin Morales,Iceland,2024-12-29,637.92
+Bryan Sharp,Barbados,2024-05-06,251.41
+Erin Stevens,Estonia,2024-03-16,986.05
+Sheila Knight,Saint Barthelemy,2024-04-08,24.53
+Taylor Wilkerson,Sri Lanka,2024-04-03,983.48
+Carrie Rivas,Zimbabwe,2025-01-16,124.71
+Eduardo Walker,Hungary,2024-02-23,258.32
+William Meyer,Liberia,2024-05-05,310.4
+Maureen Johnson,Venezuela,2024-03-19,876.53
+Christopher Meyer,Suriname,2024-10-04,358.31
+Judy Howell,Iraq,2024-08-10,99.45
+Nicole Jones,Greece,2024-12-29,718.39
+Gregory Olson,Slovakia (Slovak Republic),2024-05-13,135.45
+Jaime Wade,Ecuador,2024-08-27,929.77
+Matthew Taylor,Tanzania,2024-03-11,395.13
+Cheryl Glenn,Germany,2024-06-15,370.01
+Dustin Thomas MD,Liberia,2024-09-29,120.26
+Theresa Martin,Burkina Faso,2024-12-18,361.28
+Robert Woods,Anguilla,2024-03-14,154.43
+Emily Poole,Guam,2024-12-02,433.78
+Clifford Griffin,Saudi Arabia,2024-06-10,210.46
+Barbara Little,Belize,2024-07-25,480.85
+Sharon Chan,British Virgin Islands,2024-07-24,795.86
+Maria Porter,Heard Island and McDonald Islands,2024-06-30,792.18
+Evan Brown,Netherlands Antilles,2025-01-07,307.43
+Dr. Caitlin Mathews,Croatia,2024-10-03,436.95
+Jennifer Cohen,Heard Island and McDonald Islands,2024-06-02,104.69
+Samuel Cook,Myanmar,2024-04-26,124.85
+Melvin Moore,Somalia,2024-10-09,346.44
+Victor Adams,Mauritius,2024-09-15,563.23
+Michael Chase,Portugal,2024-11-03,372.24
+Devon Beck,Guam,2024-09-13,979.68
+Jonathan Spencer,Suriname,2024-05-26,769.91
+Pamela Horne,Togo,2024-11-15,845.08
+Cynthia Ortiz,Guam,2024-12-06,235.82
+Jesse Ferguson,Guinea,2024-09-24,67.27
+Kathy Brown,Guatemala,2024-04-23,431.78
+Stanley Cooper,Belize,2024-05-31,287.36
+David Torres,Mexico,2024-03-16,988.79
+Justin Smith,Mongolia,2025-02-01,982.49
+Jacqueline Douglas,Nicaragua,2024-09-08,898.55
+Vanessa Miller,Hong Kong,2024-02-26,942.36
+Casey Hunt,Tuvalu,2024-04-12,142.55
+Kyle Brown,Austria,2024-11-13,979.88
+Brian Bell,China,2025-02-07,656.12
+Sarah Mitchell,Chile,2024-08-27,169.53
+Mark Villegas,Jersey,2024-06-28,220.81
+Shannon Robinson,Saudi Arabia,2024-07-28,374.07
+Philip Wall,Christmas Island,2024-10-24,855.57
+Lori Hartman,Mongolia,2024-06-04,923.93
+Kevin Baker,Sudan,2024-03-29,546.79
+Carolyn Mason,Algeria,2024-06-30,443.5
+Patrick Jensen,Afghanistan,2024-06-25,226.9
+Shannon Noble,Antarctica (the territory South of 60 deg S),2024-10-18,974.14
+Brittney Bridges,Spain,2024-04-20,309.44
+Edward Bates,Lithuania,2024-04-22,270.49
+Tracey Williams,Russian Federation,2024-04-02,102.83
+Pam Larson,Reunion,2024-04-15,734.61
+Lisa Bright,Bahamas,2024-10-26,621.01
+Kevin West,Swaziland,2024-11-12,275.3
+Cody Clayton,Saint Kitts and Nevis,2024-05-19,564.48
+Lisa Horton,Nigeria,2024-05-20,839.0
+Lisa Lyons,Sri Lanka,2024-02-23,558.31
+Brenda Riley,Nicaragua,2024-07-20,602.44
+Jonathan Strickland,Maldives,2024-05-04,339.24
+Gregg Everett,Eritrea,2024-11-30,473.45
+Robert Williams,Vietnam,2024-07-23,46.99
+Victoria Francis,Venezuela,2024-11-13,19.69
+John Valencia,Botswana,2024-12-16,75.07
+Michael Wilson,Bahamas,2024-04-12,595.26
+Jennifer Malone,Spain,2025-02-04,281.57
+Kevin Green,Gambia,2025-01-25,338.84
+Stanley Garcia,Ecuador,2025-01-23,593.21
+Deborah Smith,Sri Lanka,2024-08-09,450.25
+Scott Gross,Central African Republic,2024-06-05,210.64
+Sandra Brown DVM,Anguilla,2024-07-01,734.96
+Travis Alvarez,Qatar,2024-08-13,114.58
+Richard Benson,Cote d'Ivoire,2024-04-15,635.62
+Christopher Green,Montserrat,2024-08-25,848.97
+Bradley Jackson,Barbados,2025-01-13,946.31
+Travis Chan,Falkland Islands (Malvinas),2024-02-29,425.66
+Christopher Murphy,Ghana,2024-08-11,374.35
+Dr. Scott Friedman,Bosnia and Herzegovina,2024-06-23,437.73
+Meghan Fernandez,Hungary,2024-06-08,949.76
+Cynthia Smith,Mayotte,2025-01-14,328.15
+Arthur Clarke,Colombia,2024-03-07,998.8
+Brittney Watts,Barbados,2024-10-24,729.2
+Randy Morris,Guyana,2025-02-09,207.77
+Elizabeth Gray,Turkmenistan,2024-11-07,266.59
+Michael Wilson,Turkmenistan,2024-12-10,184.16
+Jacob Burns,Israel,2024-10-13,804.31
+Abigail Johnson,Cambodia,2024-06-23,513.05
+Amanda Hebert,Chad,2024-06-06,221.57
+Peter Bennett,Syrian Arab Republic,2024-08-31,346.9
+Samuel Mckinney,Malawi,2024-10-15,549.32
+Lindsey Vazquez,South Africa,2025-01-18,650.57
+Lisa Aguilar DDS,Costa Rica,2024-08-26,406.41
+Terri Hill,Saint Kitts and Nevis,2024-11-13,353.48
+Robert Powell,China,2024-02-29,960.55
+Tiffany Villegas,Moldova,2024-08-11,761.29
+Allen Perez MD,Guyana,2024-08-31,280.19
+Jessica Collins,Belize,2024-10-20,880.72
+Thomas Reed,Saint Helena,2024-02-16,471.44
+Marissa Holder,United States of America,2024-05-06,613.48
+Joseph Miller,Equatorial Guinea,2024-10-17,701.23
+Melissa Fuller,Anguilla,2024-12-08,848.16
+Howard Vega,Burundi,2024-05-21,344.71
+Jennifer Colon,Lithuania,2024-08-13,525.25
+Regina Adams,Norway,2024-08-08,990.68
+Sergio Church,Reunion,2025-01-12,812.48
+Vernon Dillon,Philippines,2024-09-12,898.96
+Luke Nielsen MD,Zambia,2024-11-27,382.66
+Patricia Rodriguez,Brunei Darussalam,2024-08-07,879.81
+Cassandra King,San Marino,2025-01-24,733.13
+Lindsey Hernandez,French Southern Territories,2025-02-07,459.01
+Donald Diaz,Chad,2024-08-22,690.91
+Jennifer Maldonado,Guinea,2024-08-02,716.19
+Kathryn Rodgers,Tonga,2024-05-15,27.65
+Valerie King,El Salvador,2024-03-10,573.21
+Amanda Clark,Liberia,2024-08-05,195.59
+Mitchell Harris,Rwanda,2024-02-17,474.19
+Diane Maxwell,Iceland,2024-10-06,400.62
+Terri Colon,Wallis and Futuna,2024-06-06,388.57
+Erica Logan,Togo,2024-10-09,309.07
+Jessica Miller,Kiribati,2024-11-06,681.06
+Leslie Gutierrez,China,2024-08-08,932.72
+Jose Montes,Germany,2024-07-10,113.66
+Manuel Weber,Iran,2024-05-17,96.67
+Holly Wong,Zimbabwe,2024-11-05,785.09
+Stephanie Fernandez,Andorra,2024-04-28,264.09
+Christina Smith,Iraq,2024-12-09,328.82
+Jessica Collins,Gabon,2024-11-11,885.05
+Charles Ferguson,Palau,2024-06-25,507.02
+Cody Allison,Grenada,2024-04-19,865.62
+Peter Lewis,French Southern Territories,2024-09-23,867.75
+Madeline Long,Colombia,2024-12-29,380.22
+Joyce Young,Suriname,2025-01-14,450.38
+Laura Neal,Mozambique,2024-12-25,119.05
+Anita Medina,Antigua and Barbuda,2024-03-20,769.18
+Angel Yang,Togo,2024-12-26,245.53
+Michelle Keith,Greece,2024-03-09,563.66
+Amy Welch,Switzerland,2025-01-26,685.39
+Kevin Walker,American Samoa,2024-06-20,292.79
+Edwin Johnson,Guyana,2024-05-07,339.82
+Patricia Murray,Fiji,2024-09-15,897.91
+Larry Petersen,French Southern Territories,2024-09-30,776.0
+Carla Lyons,Togo,2025-01-17,119.26
+Elizabeth Townsend,Ireland,2024-03-07,727.86
+Karen Patterson,Syrian Arab Republic,2024-05-15,689.17
+Katie Choi,Nicaragua,2025-01-13,230.46
+James Cook,North Macedonia,2024-11-27,975.08
+Kristin Holmes,Kuwait,2025-01-13,827.26
+Matthew Garrett,Austria,2025-01-21,545.83
+Lisa Jordan,Vanuatu,2024-04-22,818.95
+Andrew Anderson,Papua New Guinea,2025-01-13,194.15
+Trevor Ward,Mauritius,2024-03-18,27.74
+Vanessa Perez,Guyana,2024-12-02,78.44
+Caitlin Gibson,Venezuela,2025-02-01,496.06
+Kenneth Montoya,Egypt,2024-09-10,533.86
+Elizabeth Suarez,Korea,2024-08-19,124.42
+Michael Garcia,Comoros,2024-10-11,356.37
+Rebecca Chang,Singapore,2024-03-19,255.46
+Joanne Bell,Iceland,2024-11-24,674.52
+Alex Baker,Aruba,2024-10-26,738.81
+Darryl Patrick,Liechtenstein,2024-03-06,277.47
+Nicole Lucas,Lebanon,2025-01-06,139.04
+Joshua Allen,Kazakhstan,2024-12-30,635.35
+William Griffin,Tonga,2024-07-22,144.66
+Patty Miranda,Benin,2024-07-26,248.29
+Cathy Mahoney,Trinidad and Tobago,2024-03-03,911.97
+Christopher Jimenez,Zambia,2024-03-12,355.59
+Joanne Washington,Madagascar,2024-06-18,12.52
+Gabrielle Allen,Indonesia,2025-01-22,957.22
+James Mendoza,Tanzania,2025-01-19,210.06
+Sherry Marquez,Cyprus,2024-04-16,546.91
+Sheri Ortega,Palau,2024-11-01,759.02
+Ashley Solis,Djibouti,2024-04-24,217.7
+Rebecca Rodgers,Saint Helena,2024-05-31,612.15
+Anthony Williams,Bermuda,2024-04-09,803.44
+Melissa Kent,Botswana,2024-03-25,33.54
+Dr. Jennifer Solis MD,Palestinian Territory,2024-07-10,55.91
+Andrea Cline,Mongolia,2024-09-24,870.84
+Alexander Braun,Vanuatu,2024-07-26,288.99
+Mr. Christopher Cowan,Guinea,2024-05-10,122.94
+Sabrina Lee,British Virgin Islands,2024-05-24,941.13
+Christopher Martinez,Cambodia,2024-05-27,28.22
+Billy Blackburn,Barbados,2024-05-11,215.79
+Amber Harrell,Bahamas,2025-01-15,507.79
+Heather Johnson,Ghana,2024-12-30,56.43
+Jared Rosales,Colombia,2024-05-04,231.1
+Terry Rodriguez,Luxembourg,2024-07-26,617.06
+Robert Frazier,Peru,2024-07-10,984.06
+Nathaniel Romero,French Polynesia,2024-03-18,584.25
+Allen Dickerson,British Virgin Islands,2024-02-19,764.17
+Nicole Le,Tokelau,2024-04-11,114.09
+Victoria Oliver,Gibraltar,2024-04-29,758.1
+Edward Diaz,Korea,2025-01-01,285.8
+Tara Williams,Kazakhstan,2025-01-31,856.94
+Amanda Andersen,Macao,2024-08-25,728.45
+Gabriella Daniels,Jersey,2024-04-06,204.01
+Darren Curry,Iceland,2025-02-11,435.45
+Dana Hess,Denmark,2024-08-30,884.18
+Randall Hicks,Guinea,2024-11-12,414.03
+Kimberly Robles,Marshall Islands,2024-12-20,891.0
+John Taylor,Cook Islands,2024-08-08,421.33
+Heidi Proctor,Jordan,2024-04-27,953.94
+Karen Santana,Guinea,2024-12-20,314.65
+Tina Jenkins,Yemen,2024-09-23,146.71
+Curtis Lopez,Pakistan,2025-01-30,483.7
+Melissa Hernandez DVM,Rwanda,2024-04-13,122.5
+Crystal Sanchez,Papua New Guinea,2024-05-17,276.29
+David Campbell,Benin,2024-11-27,234.91
+Bryan Carroll,Niue,2024-11-03,683.75
+James Thomas,Puerto Rico,2024-07-25,405.64
+James Jones,Cocos (Keeling) Islands,2024-06-29,50.19
+Brady Hebert,Isle of Man,2024-05-15,725.09
+William Buchanan,Isle of Man,2024-12-31,556.76
+Michele Soto,South Georgia and the South Sandwich Islands,2024-04-07,733.36
+Gary Henson,Guadeloupe,2024-02-18,783.46
+Melissa Ward,Hong Kong,2024-09-22,277.7
+Cameron Weaver,Namibia,2025-01-06,318.59
+Charles Cobb,Sao Tome and Principe,2025-02-08,50.5
+Margaret Hill,France,2024-05-15,996.91
+Shelia Trujillo,Moldova,2025-01-29,370.44
+John Vazquez,United States Virgin Islands,2024-03-23,563.57
+Mario Garcia,Falkland Islands (Malvinas),2024-06-26,155.34
+Rebecca Holmes,Kazakhstan,2024-06-25,439.16
+Hannah Wagner,Christmas Island,2024-12-30,66.82
+Aaron Rodgers,Sao Tome and Principe,2024-10-12,230.94
+Carol Graves,France,2025-02-07,779.23
+Joshua Smith,Congo,2024-04-15,452.35
+Heather Ballard,Iraq,2024-11-18,180.59
+Walter Sullivan,Slovakia (Slovak Republic),2024-10-30,818.78
+Joseph Anderson,Bulgaria,2024-04-08,381.54
+Betty Salinas,Iraq,2025-01-28,541.87
+Crystal Cox,Lesotho,2024-02-16,565.11
+Sheryl Peters,Lesotho,2024-09-16,445.55
+Kevin Lutz,Dominican Republic,2024-07-23,52.5
+Troy Washington,Afghanistan,2024-12-30,850.39
+Michael Hancock,Hungary,2024-06-29,951.3
+Toni Ferguson,Tonga,2024-05-22,828.12
+Richard Marshall,Eritrea,2024-10-22,537.47
+Perry Russell,Zambia,2024-09-09,350.88
+Courtney Schneider,Reunion,2024-08-27,693.17
+Robert Gutierrez,Slovenia,2024-03-12,172.36
+William Benitez,United Arab Emirates,2024-05-18,121.73
+Jacob Durham,Sweden,2024-11-19,150.74
+Pam Ramos,Rwanda,2024-08-22,937.03
+Cassidy Hill,Afghanistan,2024-05-27,109.55
+Steven Castillo,Guadeloupe,2025-01-23,138.32
+Lauren Cox,Belarus,2025-01-28,359.06
+Ashley Zamora,Belarus,2024-04-05,10.87
+Karen Ramirez,Romania,2024-08-06,857.66
+Zachary Mcguire,Ethiopia,2024-05-14,753.81
+James Griffith,Syrian Arab Republic,2024-07-05,180.5
+Michael Rodriguez MD,Uruguay,2024-05-09,102.79
+Lisa Davis,Uganda,2024-05-05,741.64
+Stephen Pope PhD,Philippines,2025-02-12,530.55
+Bailey Frey,Angola,2025-01-24,503.04
+Brian Johnson,Lao People's Democratic Republic,2024-06-30,160.27
+Christopher Evans,Georgia,2024-05-06,620.65
+Laura Kennedy,Guadeloupe,2024-12-19,751.43
+Gloria Smith,Swaziland,2024-10-19,876.41
+Mary Arellano,Holy See (Vatican City State),2024-04-19,160.07
+Evan Green,Taiwan,2024-09-23,889.73
+Austin Hatfield,Aruba,2024-11-10,309.17
+Mr. Christian Dixon,Congo,2024-04-22,224.3
+Michele Martin,Brunei Darussalam,2024-04-19,32.31
+Jessica Kelley,Palestinian Territory,2024-07-02,104.38
+Steven Fowler,Sudan,2024-12-25,313.63
+Kyle Nicholson,Andorra,2024-03-04,696.72
+Joseph Fleming,United States Minor Outlying Islands,2024-08-27,516.22
+Jennifer Guerrero,Kyrgyz Republic,2024-06-26,197.87
+Roberto Buckley,Greenland,2024-09-27,811.82
+Brian Taylor,Sao Tome and Principe,2024-06-03,349.09
+Eric Andrews,Saint Lucia,2024-06-30,494.2
+Francisco Stokes,Iceland,2024-05-15,710.26
+Jennifer Morrison,Ukraine,2024-08-06,621.59
+James Mitchell,Pakistan,2025-01-14,209.59
+Jeremy Bush,Morocco,2024-05-11,464.01
+Catherine Robinson,Montserrat,2024-04-16,341.54
+Richard Bell,Uzbekistan,2024-09-25,988.73
+Desiree Taylor,Dominican Republic,2024-08-30,160.46
+Rachel Wright,Ethiopia,2024-05-15,106.32
+Chad Diaz,Martinique,2024-03-26,77.41
+Ryan Jacobs,Mongolia,2024-10-27,599.91
+Kayla Austin,Liberia,2024-10-27,892.95
+Melissa Hamilton,Comoros,2024-11-06,338.55
+Linda Howard,Congo,2024-04-19,396.17
+Theresa Miller,Belarus,2024-04-16,686.52
+Elizabeth Perkins,Moldova,2024-11-28,274.17
+Jennifer Santiago,Lesotho,2025-02-09,976.86
+Jason Phillips,Monaco,2024-08-06,622.53
+Jeremy Woods,Croatia,2024-04-17,750.13
+Brianna Johnson,Tunisia,2024-06-30,85.52
+Holly Smith,Iraq,2024-06-01,678.73
+Mallory Ramos,Congo,2024-07-15,850.71
+Brooke Black,Australia,2024-11-24,304.78
+Susan Williams,Netherlands Antilles,2024-07-18,243.82
+Stephen Brooks,Iran,2024-04-20,922.9
+Tracy Williams,Thailand,2024-03-12,969.9
+Erin Parks,Aruba,2024-02-23,84.94
+Zachary Miles,Malawi,2024-03-01,111.94
+Diamond Mora,Qatar,2024-12-22,770.66
+Linda Barton,Haiti,2024-10-31,545.81
+Kiara Krause,British Virgin Islands,2024-12-11,972.16
+Ronald Tucker,Tanzania,2024-05-13,841.45
+Patrick Randolph,Mozambique,2024-10-08,368.21
+William Brown,Bolivia,2024-06-24,77.71
+Randy Davis,Bahrain,2024-04-21,597.49
+Paul Craig,Mozambique,2024-06-07,299.61
+Janet Miller,North Macedonia,2024-07-18,51.49
+April Hardin,Congo,2025-01-19,107.1
+Jonathan Ramos,Timor-Leste,2024-07-14,546.85
+Michael Pena,Burkina Faso,2024-02-20,185.03
+Christopher Spencer,Poland,2024-12-07,213.51
+Joshua Peterson,Eritrea,2025-02-10,658.4
+Catherine Patel,Turks and Caicos Islands,2024-07-04,463.63
+Brian Thompson,Lesotho,2024-03-02,997.24
+Trevor Lopez,New Zealand,2024-06-05,466.58
+Dennis Greene,Faroe Islands,2024-09-05,335.34
+Emma Long,Belgium,2025-01-23,245.9
+Andrea Patterson,Israel,2025-01-11,686.34
+David Anderson,Malta,2024-02-18,618.85
+Steven Cherry,Italy,2024-12-28,355.57
+Hannah Roberts,Venezuela,2024-05-07,149.61
+Courtney Wagner,Cocos (Keeling) Islands,2024-03-11,792.57
+David Hughes,Gambia,2024-09-22,818.31
+Lindsey Vasquez,Argentina,2024-04-06,984.95
+Shannon Reese,Singapore,2024-07-14,413.08
+Michael Stevens,Sierra Leone,2024-10-20,26.99
+Kenneth Walker,Senegal,2024-11-07,621.64
+Alex Macdonald,Jordan,2024-03-27,217.55
+Ashley Brewer,Bhutan,2024-11-27,323.37
+Michael Cannon,American Samoa,2024-03-16,475.95
+Jason Robbins,Saudi Arabia,2024-03-10,803.9
+John Mcdaniel,Ukraine,2024-09-26,376.43
+Diane Bell,Serbia,2024-05-20,96.49
+John Hughes,Holy See (Vatican City State),2024-10-28,542.19
+Chelsea Williams,Sudan,2024-10-30,170.44
+Kelsey Jefferson,Paraguay,2024-08-23,472.91
+Ryan Reeves,Honduras,2024-09-16,797.01
+Beth Smith,Cape Verde,2024-09-26,805.08
+Leslie Garrett,Brazil,2024-03-09,586.18
+Kathleen Jones,Malaysia,2024-06-19,70.83
+Dana Torres,Belize,2024-08-10,171.57
+Sandra Graham,American Samoa,2024-10-31,201.79
+Steve Johnson,Sudan,2024-06-07,446.55
+Richard Gay,Marshall Islands,2025-02-11,408.26
+Douglas Thomas,Central African Republic,2024-02-16,959.6
+Nathan Smith,Svalbard & Jan Mayen Islands,2024-11-19,868.22
+Pamela Gray,Madagascar,2024-09-14,538.81
+Kathleen Hill,Solomon Islands,2024-11-30,747.34
+Stacey Moody,Taiwan,2024-03-15,800.43
+Adrian Keller,Russian Federation,2024-11-27,435.26
+Sheila Garcia,Antarctica (the territory South of 60 deg S),2024-06-28,730.13
+Sharon Mcpherson,Norway,2024-04-10,379.75
+Gregory Wiley,Croatia,2024-11-10,75.04
+Kevin Frey,New Zealand,2024-09-27,148.33
+Jordan Williams,Kuwait,2024-12-23,195.08
+Angela Johnson,Falkland Islands (Malvinas),2024-08-01,712.01
+Mary Daniels,Kazakhstan,2025-01-23,198.22
+Shannon Carter,Poland,2024-08-12,992.23
+Alan Mcmillan,Burkina Faso,2025-01-30,424.89
+Bryan Watson,Panama,2024-11-12,348.23
+Tasha Mann,Philippines,2024-04-23,421.33
+Evan Parker,Chad,2024-07-19,475.22
+Sarah George,Niue,2024-11-09,98.75
+John Lucero,Ecuador,2024-11-04,780.12
+Kevin Graham,Barbados,2024-05-15,928.26
+Michael White,Dominican Republic,2024-06-03,666.09
+Angela Herrera,Ireland,2024-11-21,341.06
+Stephanie Thompson,Zimbabwe,2024-07-14,147.24
+Tammy Robertson,Niue,2024-07-13,967.83
+Philip Romero,Mauritius,2024-03-11,30.16
+Oscar Stevenson,Zimbabwe,2024-12-30,378.94
+Steven Johnson,Vietnam,2024-07-08,595.57
+Kenneth Bishop,Macao,2024-12-20,619.98
+Christina Alvarez,Zimbabwe,2024-11-10,777.05
+Yvonne Mack,Mozambique,2024-02-26,324.06
+Lisa Martin,Mongolia,2024-04-17,94.84
+Shannon Brown,Micronesia,2024-07-15,913.0
+Sara Grant,Samoa,2024-12-02,649.91
+Ian Watson,Singapore,2025-01-31,376.56
+Catherine Grimes,Palestinian Territory,2024-06-30,568.88
+Robert Ramos,Malta,2024-06-12,805.46
+Lynn Warner,Norway,2024-10-15,337.18
+Eric Thompson,British Virgin Islands,2024-10-04,393.14
+Bryan Hill,Moldova,2024-09-28,130.11
+Daniel Martinez,South Africa,2024-10-30,778.84
+Theresa Morgan,Eritrea,2024-06-17,605.05
+Brooke Bullock,United Kingdom,2024-03-09,656.33
+Shawn Miller,Sao Tome and Principe,2024-12-23,673.17
+Austin Madden,Saudi Arabia,2025-01-27,852.59
+Rachel Pugh,Ukraine,2024-02-16,296.77
+Rebecca Miller,Tokelau,2024-11-13,37.6
+Derrick Henry,Cuba,2024-11-22,903.32
+Diana Valdez,Chad,2024-08-13,777.4
+Laura Rodriguez,Sudan,2024-02-20,510.19
+Casey Lopez,Monaco,2024-09-19,843.13
+Clarence Miller,Cote d'Ivoire,2024-07-26,735.8
+Philip Baird,French Southern Territories,2025-01-13,554.25
+Toni Franklin,United States Minor Outlying Islands,2025-01-21,685.0
+Laura Herrera,Guadeloupe,2024-03-14,33.95
+Angela Watkins,Brunei Darussalam,2024-06-09,271.14
+Charles King,Netherlands Antilles,2024-09-16,513.31
+Elaine Gonzalez,Pitcairn Islands,2024-07-12,896.95
+Mary Francis,Saint Barthelemy,2024-08-10,649.17
+Raymond Clayton,Ireland,2024-04-08,857.1
+James Palmer,Hungary,2024-05-28,47.87
+Jennifer Guerrero,Vanuatu,2024-03-21,639.37
+Samantha Wallace,Uzbekistan,2024-12-26,652.51
+Anne Armstrong,Sweden,2024-03-15,972.63
+Brenda Barnett,Mauritania,2024-11-11,47.7
+Randy Lewis,Brazil,2024-12-10,109.64
+Deborah Reyes,Eritrea,2024-10-28,728.4
+Charles Velasquez,Seychelles,2024-10-24,678.4
+Karen Lopez,Brunei Darussalam,2024-06-27,857.44
+Brandon Ortiz,Philippines,2024-02-24,63.28
+Katie Brown,Tunisia,2025-02-14,726.97
+William Johnson,Guyana,2024-09-09,547.09
+Katherine Houston,Cocos (Keeling) Islands,2024-06-30,753.47
+Lisa Kerr,Georgia,2024-11-16,837.85
+Michael Mills,Malawi,2024-11-17,705.55
+David Gutierrez,Tunisia,2024-11-08,921.19
+Jeffrey Cole,Gabon,2024-11-16,166.57
+Sarah Martinez,Montenegro,2024-12-12,935.04
+Kelly Thompson,Indonesia,2025-02-10,31.83
+James Burton,Saint Helena,2024-08-29,592.81

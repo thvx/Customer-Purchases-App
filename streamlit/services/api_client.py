@@ -1,4 +1,5 @@
 import requests
+from datetime import date
 
 API_BASE_URL = "http://127.0.0.1:8000"  # URL de la API de FastAPI
 
@@ -11,13 +12,15 @@ def bulk_upload_purchases(file):
     response = requests.post(f"{API_BASE_URL}/purchase/bulk/", files=files)
     return response.status_code == 200
 
-def get_filtered_purchases(date=None, country=None):
+def get_filtered_purchases(country=None, start_date=None, end_date=None):
     params = {}
-    if date:
-        params["date"] = date
     if country:
         params["country"] = country
-    response = requests.get(f"{API_BASE_URL}/purchase/", params=params)
+    if start_date:
+        params["start_date"] = start_date.isoformat() if isinstance(start_date, date) else start_date
+    if end_date:
+        params["end_date"] = end_date.isoformat() if isinstance(end_date, date) else end_date
+    response = requests.get(f"{API_BASE_URL}/purchases/", params=params)
     return response.json()
 
 def get_kpis():

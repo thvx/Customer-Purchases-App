@@ -1,0 +1,5 @@
+pydantic==2.10.6
+fastapi[standard]
+pytest
+httpx
+pytest-asyncio

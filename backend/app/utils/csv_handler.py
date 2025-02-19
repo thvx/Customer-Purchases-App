@@ -7,7 +7,7 @@ from app.models.purchase import Purchase
 class CSVHandler:
     @staticmethod
     async def parse_csv(file: UploadFile):
-        if file.content_type not in ["text/csv"]:
+        if file.content_type not in ["text/csv", "application/vnd.ms-excel"]:
             raise HTTPException(status_code=400, detail="Invalid file format. Only CSV files are allowed")
         
         contents = await file.read()

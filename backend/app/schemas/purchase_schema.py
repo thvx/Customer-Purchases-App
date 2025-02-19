@@ -9,4 +9,4 @@ class PurchaseSchema(BaseModel):
     amount: float
 
     class Config:
-        orm_mode = True
+        from_attributes = True

@@ -1,4 +1,4 @@
-from fastapi import APIRouter, UploadFile, File, Depends
+from fastapi import APIRouter, UploadFile, File, Depends, HTTPException
 from fastapi.responses import JSONResponse
 from typing import List, Optional
 from datetime import date
@@ -18,10 +18,15 @@ async def add_purchase(purchase: PurchaseSchema):
 
 @router.post("/purchase/bulk/")
 async def add_bulk_purchases(file: UploadFile = File(...)):
-    purchases = await CSVHandler.parse_csv(file)
-    for purchase in purchases:
-        service.add_purchase(purchase)
-    return JSONResponse(content={"added": len(purchases)})
+    try:
+        purchases = await CSVHandler.parse_csv(file)
+        for purchase in purchases:
+            service.add_purchase(purchase)
+        return JSONResponse(content={"added": len(purchases)})
+    except HTTPException as e:
+        raise e
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Internal server error: {e}")
 
 @router.get("/purchases/", response_model=List[PurchaseSchema])
 def get_purchases(country: Optional[str] = None, start_date: Optional[date] = None, end_date: Optional[date] = None):

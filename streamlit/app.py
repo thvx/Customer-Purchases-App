@@ -3,6 +3,7 @@ from presentation.upload_tab import render_upload_tab
 from presentation.analyse_tab import render_analyse_tab
 
 def main():
+    st.set_page_config(layout="wide")
     st.title("Customer Purchases App")
     tab1, tab2 = st.tabs(["Upload", "Analyse"])
     

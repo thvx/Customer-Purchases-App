@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 from datetime import date
 
 # Se define el esquema para validar los datos de entrada de la entidad Purchase
@@ -8,5 +8,4 @@ class PurchaseSchema(BaseModel):
     purchase_date: date
     amount: float
 
-    class Config:
-        from_attributes = True
+    model_config = ConfigDict(orm_mode=True)

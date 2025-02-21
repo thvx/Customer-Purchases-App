@@ -1,7 +1,10 @@
 import requests
 from datetime import date
+from dotenv import load_dotenv
+import os
 
-API_BASE_URL = "http://127.0.0.1:8000"  # URL de la API de FastAPI
+load_dotenv()
+API_BASE_URL = os.getenv('API_URL')
 
 def add_purchase(purchase_data):
     response = requests.post(f"{API_BASE_URL}/purchase/", json=purchase_data)

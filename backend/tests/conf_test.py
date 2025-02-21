@@ -26,9 +26,7 @@ def sample_purchase():
     }
 
 @pytest.fixture
-def sample_csv():
-    # Archivo CSV de ejemplo
-    csv_data = """customer_name,country,purchase_date,amount
-John Doe,USA,2023-10-01,100.50
-Jane Smith,Canada,2023-10-02,200.75"""
-    return io.BytesIO(csv_data.encode("utf-8"))
+def sample_csv_file():
+    # Leer el archivo CSV de prueba desde el sistema de archivos
+    with open("sample_purchases.csv", "rb") as file:
+        return io.BytesIO(file.read())

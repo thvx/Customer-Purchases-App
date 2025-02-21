@@ -35,3 +35,8 @@ def get_purchases(country: Optional[str] = None, start_date: Optional[date] = No
 @router.get("/kpis/")
 def get_kpis():
     return service.compute_kpis()
+
+@router.get("/forecast/")
+def get_forecast(periods: int = 12):
+    forecast = service.forecast_sales(periods)
+    return forecast

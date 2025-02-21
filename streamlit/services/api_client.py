@@ -29,3 +29,7 @@ def get_filtered_purchases(country=None, start_date=None, end_date=None):
 def get_kpis():
     response = requests.get(f"{API_BASE_URL}/kpis/")
     return response.json()
+
+def get_forecast(periods: int = 12):
+    response = requests.get(f"{API_BASE_URL}/forecast/", params={"periods": periods})
+    return response.json()

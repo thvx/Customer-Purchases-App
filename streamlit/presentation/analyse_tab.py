@@ -4,7 +4,7 @@ import plotly.express as px
 from datetime import date
 
 # Importar el cliente de la API
-from services.api_client import get_filtered_purchases, get_kpis
+from services.api_client import get_filtered_purchases, get_kpis, get_forecast
 
 def render_analyse_tab():
     st.header("Analyse Purchases")
@@ -83,3 +83,31 @@ def render_analyse_tab():
             )
     else:
         st.warning("No KPIs available.")
+
+    # Mostrar pronóstico de ventas
+    st.subheader("Sales Forecast")
+    periods = st.number_input("Forecast Period (days)", min_value=1, max_value=365, value=12, step=1)
+
+    if st.button("Generate Forecast"):
+        forecast = get_forecast(periods=periods)
+        if forecast:
+            st.subheader(f"Forecast for the next {periods} days:")
+            
+            # Convertir el pronóstico a un DataFrame para mejor visualización
+            df_forecast = pd.DataFrame(list(forecast.items()), columns=["Date", "Amount"])
+            df_forecast["Date"] = pd.to_datetime(df_forecast["Date"])
+            
+            # Mostrar la tabla de pronóstico
+            st.dataframe(df_forecast, use_container_width=True)
+
+            # Mostrar un gráfico de línea con Plotly
+            fig = px.line(
+                df_forecast,
+                x="Date",
+                y="Amount",
+                title="Sales Forecast",
+                labels={"Amount": "Forecasted Sales ($)", "Date": "Date"},
+            )
+            st.plotly_chart(fig)
+        else:
+            st.warning("No forecast data available.")

@@ -2,72 +2,92 @@
 
 ## Overview
 
-Build a system with two main components:
+This project is a system composed of two main components:
 
-1. **Backend (FastAPI)**  
-   - Manage customer purchase data in-memory.
-   - Endpoints to:
+1. **Backend (FastAPI):**
+   - Manages customer purchase data in memory.
+   - Provides endpoints to:
      - Add a single purchase (`/purchase/`).
-     - Bulk upload purchases from a CSV (`/purchase/bulk/`).
+     - Bulk upload purchases from a CSV file (`/purchase/bulk/`).
      - Retrieve filtered purchase data (by date and country).
-     - Compute KPIs (mean purchases per client, clients per country, and optionally, forecast sales).
+     - Compute KPIs (mean purchases per client, clients per country, and sales forecasting).
 
-2. **Frontend (Streamlit)**  
-   - Create a simple UI with two tabs:
-     - **Upload Tab**: Form for a single purchase entry and CSV file upload.
-     - **Analyse Tab**: Filter (by date and country) and display KPIs from the API.
+2. **Frontend (Streamlit):**
+   - A simple user interface with two tabs:
+     - **Upload Tab:** Form for single purchase entry and CSV file upload.
+     - **Analyse Tab:** Filters (by date and country) and visualization of KPIs from the API.
 
-3. **Dockerization**  
-   - Containerize both the FastAPI and Streamlit applications.
-   - Provide clear instructions to run them locally.
+Both applications are containerized using Docker for easy local execution.
 
-## Requirements
+---
 
-- Use the provided repository as your starting point:
-  - **FastAPI code:** located at `fastapi/main.py`
-  - **Sample CSV file:** `sample_purchase.csv` (CSV format only)
-- Data should be stored in-memory.
-- Document your work in a custom README (this file should be replaced with your own version).
-- Use Git with regular, small commits (feature branches recommended).
-- Write unit tests for key backend functionality.
-- **Deadline:** Complete and submit your GitHub repository link within one week.
+## API Endpoints
 
-## Evaluation Criteria
+The following table describes the available endpoints in the FastAPI backend:
 
-- **Code Quality:** Clean, modular, and well-commented code.
-- **Documentation:** A clear README explaining:
-  - The system architecture.
-  - Setup and running instructions.
-  - Design decisions and any trade-offs.
-- **Testing:** Adequate unit tests for backend endpoints.
-- **Version Control:** Frequent commits and proper branching.
-- **Dockerization:** Successful containerization with clear local run instructions.
+| **Endpoint**            | **Method** | **Description**                                                                 | **Parameters**                                                                                   | **Response**                                                                 |
+|-------------------------|------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| `/purchase/`            | `POST`     | Add a single purchase.                                                          | `customer_name: str`, `country: str`, `purchase_date: date`, `amount: float`                    | The added purchase in JSON format.                                           |
+| `/purchase/bulk/`       | `POST`     | Bulk upload purchases from a CSV file.                                          | `file: UploadFile` (CSV file with columns: `customer_name`, `country`, `purchase_date`, `amount`)| JSON response with the number of purchases added.                            |
+| `/purchases/`           | `GET`      | Retrieve filtered purchases by date and country.                                | `country: Optional[str]`, `start_date: Optional[date]`, `end_date: Optional[date]`               | List of filtered purchases in JSON format.                                   |
+| `/kpis/`                | `GET`      | Compute KPIs (mean purchases per client and clients per country).               | None                                                                                            | JSON response with KPIs: `mean_per_client` and `clients_per_country`.        |
+| `/forecast/`            | `GET`      | Generate a sales forecast for the specified number of periods (days).           | `periods: int` (default: 12)                                                                    | JSON response with forecasted sales for each date.                           |
 
-## Getting Started
+---
 
-1. **Clone the Repository:**  
-   `git clone https://github.com/merck-test/software-developer-test.git`
+## System Architecture
 
-2. **Backend:**  
-   - Review and enhance the FastAPI code in `fastapi/main.py`.
+The system follows a client-server architecture:
 
-3. **Frontend:**  
-   - Build a Streamlit app to interact with the FastAPI endpoints.
+1. **Backend (FastAPI):**
+   - **Models:** Defines the `Purchase` entity.
+   - **Schemas** Defines the validation schema (`PurchaseSchema`).
+   - **Repository:** Stores data in memory (`PurchaseRepository`).
+   - **Services:** Contains business logic (`PurchaseService`), such as KPI calculation and sales forecasting.
+   - **Endpoints:** Exposes functionalities through a REST API.
 
-4. **Docker:**  
-   - Create Dockerfiles for both the FastAPI and Streamlit applications.
-   - Provide instructions to build and run the containers.
+2. **Frontend (Streamlit):**
+   - **Domain (Models):** Contains the data models (`Purchase`) used in the application.
+   - **Presentation:** Contains the UI components and logic for each tab in the Streamlit app.
+   - **Services:** Contains the logic to interact with the API.
 
-5. **Testing & Documentation:**  
-   - Write unit tests for backend functionality.
-   - Update this README with your explanations and setup instructions.
+3. **Docker:**
+   - Each component (FastAPI and Streamlit) runs in a separate container.
+   - Docker Compose is used to orchestrate the execution of both containers.
 
-## Submission
+---
 
-Submit your GitHub repository link once completed. Ensure your repo includes:
-- Your updated README.
-- Enhanced FastAPI and Streamlit code.
-- Dockerfiles and clear run instructions.
-- Unit tests for the backend.
+## Setup and Running Instructions
 
-Good luck and happy coding!
+### Prerequisites
+
+- Docker installed.
+- Git (optional, for cloning the repository).
+
+### Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/thvx/Customer-Purchases-App.git
+   cd customer-purchases-app
+
+2. **Build and run the containers**
+   ```bash
+   docker-compose up --build
+
+3. **Access the applications**
+- FastAPI (Backend): Open your browser and visit http://localhost:8000/docs.
+- Streamlit (Frontend): Open your browser and visit http://localhost:8501.
+
+---
+
+## Unit Tests
+Unit tests were implemented for key backend functionalities, such as:
+- Adding a purchase.
+- Loading purchases from a CSV file.
+- Calculating KPIs.
+
+### To run the tests:
+```bash
+cd backend/tests
+pytest

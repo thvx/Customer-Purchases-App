@@ -69,7 +69,7 @@ The system follows a client-server architecture:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/thvx/Customer-Purchases-App.git
-   cd customer-purchases-app
+   cd software-developer-test
 
 2. **Build and run the containers**
    ```bash

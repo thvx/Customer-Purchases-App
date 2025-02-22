@@ -28,5 +28,5 @@ def sample_purchase():
 @pytest.fixture
 def sample_csv_file():
     # Leer el archivo CSV de prueba desde el sistema de archivos
-    with open("sample_purchases.csv", "rb") as file:
+    with open("../sample_purchases.csv", "rb") as file:
         return io.BytesIO(file.read())
